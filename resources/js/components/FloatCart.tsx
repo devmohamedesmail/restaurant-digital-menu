@@ -68,7 +68,7 @@ function FloatCart({ table }: Props) {
                 <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
                 <div className="drawer-content">
 
-                    <label htmlFor="my-drawer-4" className='fixed bottom-20 right-10 w-12 h-12 rounded-full bg-primary flex justify-center items-center'>
+                    <label htmlFor="my-drawer-4" className='fixed bottom-24 right-10 w-12 h-12 rounded-full bg-orange-600 flex justify-center items-center'>
                         <MdAddShoppingCart size={25} />
                     </label>
                 </div>
